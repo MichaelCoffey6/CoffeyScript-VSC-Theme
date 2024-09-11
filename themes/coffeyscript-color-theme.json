@@ -1,17 +1,29 @@
 {
 	"name": "CoffeyScript",
+	"icon": "icons/icon.png",
+	"author": {
+		"name": "Michael Coffey Mint",
+		"email": "smmlrnc@gmail.com",
+		"url": "https://github.com/MichaelCoffey6"
+	},
+	"repository": {
+		"url": "https://github.com/MichaelCoffey6/CoffeyScript-VSC-Theme.git",
+		"type": "git"
+	},
+	"publisher": "coffeyscript-theme",
+	
 	"semanticHighlighting": true,
-  "semanticTokenColors": {
-    "enumMember": {
-      "foreground": "#cda869"
-    },
-    "variable.constant": {
-      "foreground": "#dad085"
-    },
-    "variable.defaultLibrary": {
-      "foreground": "#ffffff"
-    }
-  },
+	"semanticTokenColors": {
+		"enumMember": {
+		"foreground": "#cda869"
+	},
+	"variable.constant": {
+		"foreground": "#dad085"
+	},
+	"variable.defaultLibrary": {
+		"foreground": "#ffffff"
+	}
+	},
 	"tokenColors": [
 		{
 			"name": "Comment",
@@ -631,7 +643,7 @@
 			}
 		}
 	],
-	"colors": {
+"colors": {
     "foreground": "#ffffff",
     "focusBorder": "#00000000",
     "selection.background": "#837b86",
