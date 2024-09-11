@@ -17,5 +17,18 @@
         "path": "./themes/CoffeyScript-color-theme.json"
       }
     ]
-  }
+  },
+
+  
+	"icon": "icons/icon.png",
+	"author": {
+		"name": "Michael Coffey Mint",
+		"email": "smmlrnc@gmail.com",
+		"url": "https://github.com/MichaelCoffey6"
+	},
+	"repository": {
+		"url": "https://github.com/MichaelCoffey6/CoffeyScript-VSC-Theme.git",
+		"type": "git"
+	},
+	"publisher": "coffeyscript-theme",
 }
