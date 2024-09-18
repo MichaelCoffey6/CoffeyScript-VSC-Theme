@@ -2,7 +2,7 @@
   "name": "coffeyscript-theme",
   "displayName": "CoffeyScript Theme",
   "description": "Theme based on the colors of the CoffeeScript page examples",
-  "version": "0.0.1",
+  "version": "0.0.5",
   "engines": {
     "vscode": "^1.93.0"
   },
