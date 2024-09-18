@@ -1,9 +1,5 @@
-# Change Log
+# 0.0.4
+- Color of html tags corrected
 
-All notable changes to the "coffeyscript" extension will be documented in this file.
-
-Check [Keep a Changelog](http://keepachangelog.com/) for recommendations on how to structure this file.
-
-## [Unreleased]
-
-- Initial release
+# 0.0.5
+- Fixed breakpoint color
